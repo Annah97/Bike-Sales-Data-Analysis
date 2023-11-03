@@ -10,5 +10,5 @@ dashboard using Excel to analyze bike sales data across various regions, educati
 1. Download the "Excel Dashboard.xlsx" file from this repository.
 2. Open the Excel file using Microsoft Excel or any spreadsheet software.
 3. Navigate through the different sheets to view the data, pivot tables, charts, and the interactive dashboard.
-4. The "Excel Dashboard.xlsx" file contains four sheets, the "bike_buyers" sheet which is the raw data direct from the source." Working Sheet" is where I did the data cleaning and modifications of the data. And "Pivot Table" sheet is where I created the visualizations and my pivot tables.
+4. The "Excel Dashboard.xlsx" file contains four sheets, the "bike_buyers" sheet which is the raw data direct from the source." Working Sheet" is where I did the data cleaning and modifications of the data. And "Pivot Table" sheet is where I created the visualizations and my pivot tables and lastly is the "Dashboard" sheet, which contains an interactive dashboard .
 
